@@ -1,6 +1,6 @@
 # codes
 
-Here are some solutions for CS50x 2020
+Here are some solutions for CS50x 2020,
 learn if you have problem in your coding 
 
 dont copy and paste it !
